@@ -1,3 +1,5 @@
+[English](README-en.md) [한국어]
+
 # 한국일보 MCP
 
 한국일보(<https://www.hankookilbo.com>)의 공개 홈페이지 데이터를 **메타데이터 중심**으로 제공하는
